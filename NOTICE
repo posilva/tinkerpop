@@ -5,7 +5,7 @@ This product includes software developed at
 The Apache Software Foundation (http://www.apache.org/).
 
 ------------------------------------------------------------------------
-Activiti
+Activiti 6.0.0
 ------------------------------------------------------------------------
 Activiti BPM Platform
 Copyright 2010-2014 Alfresco Software, Ltd.
@@ -13,3 +13,15 @@ Copyright 2010-2014 Alfresco Software, Ltd.
 gremlin-core/src/main/java/org/apache/tinkerpop/gremlin/structure/io/graphml/GraphMLWriterHelper.java
 contains DelegatingXMLStreamWriter.java and IndentingXMLStreamWriter.java from
 modules/activiti-bpmn-converter/src/main/java/org/activiti/bpmn/converter/
+
+------------------------------------------------------------------------
+Spring Asciidoctor Extensions 0.1.2.RELEASE
+------------------------------------------------------------------------
+Copyright 2014-2016 the original author or authors.
+Author: Andy Wilkinson
+
+docs/utils/asciidoctor-extensions/src/main/resources/tab.css renamed from
+spring-asciidoctor-extensions/src/main/resources/codeBlockSwitch.css (with style modifications)
+
+docs/utils/asciidoctor-extensions/src/main/resources/tab.js renamed from
+spring-asciidoctor-extensions/src/main/resources/codeBlockSwitch.js
